@@ -1,5 +1,5 @@
 # arcanum.map
-Arcanum World Map: https://drrak.github.io/arcanum.map/
+The World of Arcanum: https://drrak.github.io/arcanum.map/
 
 Mapa Arcanum: https://drrak.github.io/arcanum.map/pl.html
 
