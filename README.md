@@ -1,4 +1,6 @@
-# The World of Arcanum: https://drrak.github.io/arcanum.map/
+# The World Map of Arcanum
+The World of Arcanum: https://drrak.github.io/arcanum.map/
+
 Świat Arcanum: https://drrak.github.io/arcanum.map/pl.html
 
 Мир Арканума: https://drrak.github.io/arcanum.map/ru.html
